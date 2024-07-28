@@ -48,7 +48,7 @@ To clone and run this project, follow these steps:
 
 # Author
 
-# Your Name: Prem sai teja thulva
+# Name: Prem sai teja thulva
 
 - [Github ](https://github.com/PREMSAITEJA)
 - [linkedin](https://www.linkedin.com/in/thulva-pram-sai-teja-51b0ab244/)
